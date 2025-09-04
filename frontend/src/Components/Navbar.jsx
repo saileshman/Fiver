@@ -24,7 +24,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <div className="w-full flex items-center justify-between px-4 py-3 bg-white shadow-md relative">
+    <div className="w-full flex items-center justify-between px-7 py-3 bg-white shadow-md relative">
       {/* Left side */}
       <div className="flex items-center gap-6">
         <img src={Fiver} alt="Fiver" className="h-8" />
